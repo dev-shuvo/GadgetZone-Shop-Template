@@ -22,7 +22,7 @@ An e-commerce template built with Bootstrap 5
 
 ## Preview
 
-[See live demo]()
+[See live demo](https://dev-shuvo.github.io/GadgetZone-Shop-Template/)
 
 | ![](preview.png) |
 | ---------------- |
